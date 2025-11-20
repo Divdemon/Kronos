@@ -1,0 +1,5 @@
+{
+  "name": "Digital Key Telemetry Dashboard",
+  "description": "A real-time dashboard for telemetry analysts to monitor the health and usage of digital cardholder keys, featuring AI-powered anomaly detection with Gemini.",
+  "requestFramePermissions": []
+}
